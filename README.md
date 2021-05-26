@@ -1,5 +1,5 @@
-# Socket Server Basico
+# App Colas Socket Server 
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Una app utilizando Websockets.  Node, Express y Socket.io para crear un sistema de colas con una bd local en un archivo JSON
 
-Temas cubiertos en mi curso de Node de cero a experto
+
